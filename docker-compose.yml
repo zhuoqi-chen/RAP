@@ -1,5 +1,5 @@
 rap-web:
-  container_name: rap-web
+  container_name: chenzhuoqi/rap-docker
   image: rap-web
   ports:
     - 8080:8080
